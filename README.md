@@ -1,16 +1,16 @@
-### Hi there 👋
+## Oi eu sou o Eduardo Marques
 
-<!--
-**twoleyes/twoleyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Sou estudante de Engenharia Mecatronica na UFU
+- 🧑 Pronomes: Ele/Dele
+- 🏃‍♂️ Curiosidade sobre mim: Amo correr
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏎️ Trainee no projeto de extensão BAJA Cerrado da UFU
+<div align="center">
+  <a href="https://www.instagram.com/bajacerrado/">
+</div>
+  - 🏎️ Trainee no projeto de extensão BAJA Cerrado da UFU
+<div align="center">
+  <a href="https://github.com/twoleyes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=twoleyes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twoleyes&layout=compact&langs_count=7&theme=dracula"/>
+</div>
